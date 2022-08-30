@@ -1,0 +1,31 @@
+.input-wrapper{
+
+height: 20px;
+display: flex;
+justify-content: flex-end;
+align-items: flex-end;
+flex-direction: column;
+padding: 16px;
+margin-bottom: 10px;
+/* border-style: solid;
+border-color: black; */
+
+
+
+}
+
+.text{
+
+font-weight: bold;
+font: 35px;
+color: black;
+
+}
+
+.resenje{
+font-size: 40px;
+font-weight: bolder;
+color: black;
+
+
+}

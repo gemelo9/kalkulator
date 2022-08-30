@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+  
+  }
+  
+  .Home{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+
+  
+  }
+  .calc-wrapper{
+  background-color: white;
+  width: 400px;
+  border-radius: 16px;
+  border-style: solid;
+  border-color: black;
+  
+  
+  }
+  .row{
+  
+  display:flex;
+  
+  }
+  
